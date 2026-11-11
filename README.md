@@ -44,10 +44,3 @@ An action-packed shonen anime following Asta, a boy born without magic in a worl
 - **Best Anime Arc:** The Elf Reincarnation Arc / Devil Believers Arc.
 - **Common Theme:** Overcoming loss, pushing past limits, and building an unstoppable team.
 
-```python
-def rate_show(title):
-    favorites = ["Big Hero 6", "Black Clover"]
-    return "Peak Fiction 🔥" if title in favorites else "Good, but not top tier."
-
-
-print(rate_show("Big Hero 6"))
