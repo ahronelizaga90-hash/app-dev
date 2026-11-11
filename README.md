@@ -1,2 +1,2 @@
 # app dev
-My Fist Repository
+My First Repository
