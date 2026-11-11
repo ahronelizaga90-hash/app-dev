@@ -1,56 +1,53 @@
-# My Favorite Series: *Title Here*
+# 🎬 My All-Time Favorites
 
-> "Insert an iconic quote from the show or movie here."
-> — **Character Name**
-
----
-
-## 📌 Overview
-
-Here is a quick breakdown of why this series stands out:
-
-* **Genre:** Fantasy / Sci-Fi / Drama
-* **Seasons / Episodes:** 3 Seasons (24 Episodes)
-* **Release Year:** 2024
-* **Personal Rating:** ⭐⭐⭐⭐⭐ (5/5)
+> "On a scale of 1 to 10, how would you rate your pain?"  
+> — **Baymax** (*Big Hero 6*)
 
 ---
 
-## 🎭 Main Characters
+## 🤖 Favorite Movie: *Big Hero 6*
 
-1. **Character One** - The primary protagonist navigating complex challenges.
-2. **Character Two** - The loyal strategist who keeps the team grounded.
-3. **Character Three** - The enigmatic wild card with an unpredictable arc.
+A futuristic blend of high-tech robotics, superhero action, and emotional heart set in San Fransokyo.
 
----
+* **Genre:** Animated / Action / Sci-Fi
+* **Release Year:** 2014
+* **Rating:** ⭐⭐⭐⭐⭐ (5/5)
 
-## 📊 Season / Volume Breakdown
-
-| Season / Volume | Focus / Major Arc | Standout Episode / Chapter | Rating |
-| :--- | :--- | :--- | :---: |
-| **Season 1** | Worldbuilding & Character Introduction | Episode 4: *The Awakening* | 9.0/10 |
-| **Season 2** | Escalating Conflict & Plot Twists | Episode 8: *The Betrayal* | 9.8/10 |
-| **Season 3** | Final Confrontation & Resolution | Episode 10: *The Legacy* | 9.5/10 |
+### Key Highlights
+1. **Baymax & Hiro's Bond:** Unbeatable duo driving the emotional core.
+2. **San Fransokyo:** Visually stunning world design combining Tokyo and San Francisco.
+3. **Tech & Science:** Superpowers rooted in actual invention and engineering.
 
 ---
 
-## 🔑 Key Highlights & Themes
+## ⚔️ Favorite Series: *Black Clover*
 
-- **Worldbuilding:** Meticulously detailed environments and lore.
-- **Pacing:** Tight storytelling with zero filler content.
-- **Character Growth:** Meaningful, slow-burn development throughout the narrative.
+An action-packed shonen anime following Asta, a boy born without magic in a world where magic is everything, striving to become the Wizard King.
+
+* **Genre:** Fantasy / Shonen / Action
+* **Episodes:** 170
+* **Rating:** ⭐⭐⭐⭐⭐ (5/5)
+
+### Main Squad: The Black Bulls
+
+| Character | Magic Type | Role |
+| :--- | :--- | :--- |
+| **Asta** | Anti-Magic | Frontline Brawler & Determination Machine |
+| **Yami Sukehiro** | Dark Magic | Captain ("Surpass your limits right now") |
+| **Noelle Silva** | Water Magic | High-tier offensive/defensive caster |
 
 ---
 
-## 💻 Sample Code / Technical Lore
+## ⚡ Quick Comparison
 
-If your favorite show includes sci-fi elements or terminal logs:
+- **Best Movie Moment:** Hiro's team upgrading their tech suits in the garage montage.
+- **Best Anime Arc:** The Elf Reincarnation Arc / Devil Believers Arc.
+- **Common Theme:** Overcoming loss, pushing past limits, and building an unstoppable team.
 
 ```python
-def check_favorite_status(title):
-    if title == "Your Favorite Show":
-        return "Masterpiece"
-    return "Worth Watching"
+def rate_show(title):
+    favorites = ["Big Hero 6", "Black Clover"]
+    return "Peak Fiction 🔥" if title in favorites else "Good, but not top tier."
 
 
-print(check_favorite_status("Your Favorite Show"))
+print(rate_show("Big Hero 6"))
